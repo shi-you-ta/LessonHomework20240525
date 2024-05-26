@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240525\\SQLServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D02052D7-7813-4883-B5AB-4FAAA0AE22FB}|SQLServer\\SQLServer.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240525\\SQLServer\\sqlserver\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D02052D7-7813-4883-B5AB-4FAAA0AE22FB}|SQLServer\\SQLServer.vbproj|solutionrelative:sqlserver\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02052D7-7813-4883-B5AB-4FAAA0AE22FB}|SQLServer\\SQLServer.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\homework20240525\\sqlserver\\sqlserver\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D02052D7-7813-4883-B5AB-4FAAA0AE22FB}|SQLServer\\SQLServer.vbproj|solutionrelative:sqlserver\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02052D7-7813-4883-B5AB-4FAAA0AE22FB}|SQLServer\\SQLServer.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240525\\SQLServer\\sqlserver\\database.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D02052D7-7813-4883-B5AB-4FAAA0AE22FB}|SQLServer\\SQLServer.vbproj|solutionrelative:sqlserver\\database.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240525\\SQLServer\\SQLServer\\Form1.vb",
+              "RelativeDocumentMoniker": "SQLServer\\Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240525\\SQLServer\\SQLServer\\Form1.vb",
+              "RelativeToolTip": "SQLServer\\Form1.vb",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwD8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-25T05:24:18.932Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240525\\SQLServer\\SQLServer\\Database.vb",
+              "RelativeDocumentMoniker": "SQLServer\\Database.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240525\\SQLServer\\SQLServer\\Database.vb",
+              "RelativeToolTip": "SQLServer\\Database.vb",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAUwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-25T05:48:31.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240525\\SQLServer\\SQLServer\\Form1.vb",
+              "RelativeDocumentMoniker": "SQLServer\\Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240525\\SQLServer\\SQLServer\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "SQLServer\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-25T05:12:41.217Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

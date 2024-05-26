@@ -1,0 +1,14 @@
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\bin\Debug\lesson.mdf
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\bin\Debug\lesson_log.ldf
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\bin\Debug\SQLServer.exe.config
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\bin\Debug\SQLServer.exe
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\bin\Debug\SQLServer.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\bin\Debug\SQLServer.xml
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\obj\Debug\SQLServer.vbproj.AssemblyReference.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\obj\Debug\SQLServer.Form1.resources
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\obj\Debug\SQLServer.Resources.resources
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\obj\Debug\SQLServer.vbproj.GenerateResource.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\obj\Debug\SQLServer.vbproj.CoreCompileInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\obj\Debug\SQLServer.exe
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\obj\Debug\SQLServer.xml
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240525\SQLServer\SQLServer\obj\Debug\SQLServer.pdb
